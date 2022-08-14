@@ -1,0 +1,7 @@
+C:\Users\Anmol\source\repos\Tools\Tools\Debug\Tools.Control1.resources
+C:\Users\Anmol\source\repos\Tools\Tools\Debug\Tools.Control2.resources
+C:\Users\Anmol\source\repos\Tools\Tools\Debug\Tools.Control3.resources
+C:\Users\Anmol\source\repos\Tools\Tools\Debug\Tools.Control5.resources
+C:\Users\Anmol\source\repos\Tools\Tools\Debug\Tools.Control6.resources
+C:\Users\Anmol\source\repos\Tools\Tools\Debug\Tools.MyForm.resources
+C:\Users\Anmol\source\repos\Tools\Tools\Debug\Tools.vcxproj.GenerateResource.cache
